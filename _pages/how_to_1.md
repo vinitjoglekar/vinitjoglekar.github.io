@@ -11,4 +11,4 @@ title: How to XYZ? - Part 1
 ```Shell
 gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=combined.pdf -dBATCH pdf1.pdf pdf2.pdf pdf3.pdf ...
 ```
-
+Refer [this thread](https://stackoverflow.com/a/19358402) for more examples.
