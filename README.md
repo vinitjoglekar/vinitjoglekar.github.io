@@ -7,4 +7,4 @@ I am interested in all things technical - no matter the domain.
 
 ## Index
 [Setting up Raspberry Pi 4 model B](/setup_rpi_4b/)
-
+[How to XYZ? - Part 1](/how_to_1/)
