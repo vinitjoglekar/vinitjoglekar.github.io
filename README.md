@@ -2,7 +2,7 @@
 >
 > Illusions - Richard Bach
 
-## Content
+## Index
 [Setting up Raspberry Pi 4 model B](/setup_rpi_4b/)
 
 [How to merge multiple PDF Files?](/merge_pdf_files/)
