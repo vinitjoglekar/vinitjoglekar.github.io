@@ -22,9 +22,6 @@ Now, in most cases, mixing heavyweight and lightweight components just works. To
 ### Translucent and Shaped Windows
 You can now create translucent and shaped windows. This is of course subject to support from the underlying platform. For more details, refer the Java Tutorial [How to Create Translucent and Shaped Windows](https://docs.oracle.com/javase/tutorial/uiswing/misc/trans_shaped_windows.html)
 
-### Miscellaneous
-JColorChooser component now supports Hue-Saturation-Luminance (HSL) color model.
-
 ## Security
 
 ### Support for Elliptic Curve Cryptography
