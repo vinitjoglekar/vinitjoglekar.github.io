@@ -1,10 +1,11 @@
 ---
 layout: default
-title: What's new in Java 7
+title: What's new in Java 7?
 ---
 
-# What's new in Java 7
-##### 14-Apr-2021
+# What's new in Java 7?
+##### First published: 14-Apr-2021
+##### Last modified: 14-Apr-2021
 
 This is my perspective on _What's new in Java 7_ &mdash; about new things that I am interested in. For a full documentation of features and enhancements in Java 7, refer the [release notes](https://www.oracle.com/java/technologies/javase/jdk7-relnotes.html).
 
@@ -28,7 +29,7 @@ JColorChooser component now supports Hue-Saturation-Luminance (HSL) color model.
 ## Security
 
 ### Support for Elliptic Curve Cryptography
-ECC is becoming popular, particularly for resource-constrained environments such as mobile or wireless. Compared to RSA, ECC offers equivalent security with smaller key sizes. This results in savings in CPU, power, memory, and bandwidth consumption. A new provider in Java 7 provides several ECC-based algorithms (ECDSA/ECDH). This removes the requirement to use external libraries for accessing ECC functionality.
+ECC is becoming popular, particularly for resource-constrained environments such as mobile or wireless. Compared to RSA, ECC offers equivalent security with smaller key sizes. This results in savings in consumption of CPU, power, memory, and bandwidth. A new provider in Java 7 provides several ECC-based algorithms (ECDSA/ECDH). This removes the requirement to use external libraries for accessing ECC functionality.
 
 ### Server Name Indication (SNI) for JSSE client
 Java 7 supports the Server Name Indication (SNI) extension in the JSSE client. This enables java-based TLS clients to connect to virtual servers.
