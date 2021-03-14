@@ -4,8 +4,7 @@ title: What's new in Java 7?
 ---
 
 # What's new in Java 7?
-##### First published: 14-Apr-2021
-##### Last modified: 14-Apr-2021
+##### 14-Apr-2021
 
 This is my perspective on _What's new in Java 7_ &mdash; about new things that I am interested in. For a full documentation of features and enhancements in Java 7, refer the [release notes](https://www.oracle.com/java/technologies/javase/jdk7-relnotes.html).
 
