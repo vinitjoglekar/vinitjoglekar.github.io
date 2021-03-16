@@ -10,8 +10,8 @@ This is my perspective on _What's new in Java 7_ &mdash; about new things that I
 
 ## Java Programming Language
 
-### Strings in switch Statements
-Java 7 language specification allows to use a String object in the expression of a switch statement. The switch statement uses String.equals method to compare the String object in its expression with the expressions in each case label. Hence, the comparison of String objects in switch statements is case sensitive. However, the bytecode for switch statements using String objects would be more efficient than an if-else ladder.
+### Strings in `switch` Statements
+Java 7 language specification allows to use a `String` object in the expression of a `switch` statement. The `switch` statement uses `String.equals()` method to compare the `String` object in its expression with the expressions in each case label. Hence, the comparison of `String` objects in switch statements is case sensitive. However, the bytecode for `switch` statements using `String` objects would be more efficient than an `if-else` ladder.
 
 ### The try-with-resources Statement
 
