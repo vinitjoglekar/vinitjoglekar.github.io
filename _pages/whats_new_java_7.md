@@ -30,3 +30,19 @@ ECC is becoming popular, particularly for resource-constrained environments such
 ### Server Name Indication (SNI) for JSSE client
 Java 7 supports the Server Name Indication (SNI) extension in the JSSE client. This enables java-based TLS clients to connect to virtual servers.
 
+## Internationalization
+
+### Unicode 6.0 support
+Java 7 supports Unicode 6.0.0, which adds support for over 2000 additional characters.
+
+### Unicode 6.0 Support in Regular Expressions API
+The Regular Expressions API in Java 7 has been enhanced to support Unicode 6.0. You can match Unicode code points using the RegEx API. You must use \u or \x escape sequences.
+
+## Java 2D
+
+### XRender-Based Rendering Pipeline
+A new XRender-based Java 2D rendering pipeline is supported for modern X11-based desktops. It offers improved graphics performance. By default, the pipeline is disabled. To enabled, set the property `-Dsun.java2d.xrender=true`. Note that, the older X11 configurations may not be able to support XRender. The property setting `-Dsun.java2d.xrender=True` may be used to enable a message to STDOUT, which will indicate whether the pipeline was actually enabled or not.
+
+### Support for Linux Fonts
+For Windows, the logical fonts for the JDK are defined in the fontconfig.properties file. On Linux, there is no guarantee of the presence of specific fonts to support specific locales. Java 7 uses libfontconfig to select the fonts to be used for the logical fonts on Linux platforms. Refer [Fontconfig](https://www.freedesktop.org/wiki/Software/fontconfig/) for more information.
+
