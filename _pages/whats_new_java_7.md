@@ -8,16 +8,16 @@ title: What's new in Java 7?
 
 This is my perspective on _What's new in Java 7_ &mdash; about new things that I am interested in. For a full documentation of features and enhancements in Java 7, refer the [release notes](https://www.oracle.com/java/technologies/javase/jdk7-relnotes.html).
 
-### Java Programming Language
+## Java Programming Language
 
-## Strings in switch Statements
+### Strings in switch Statements
 Java 7 language specification allows to use a String object in the expression of a switch statement. The switch statement uses String.equals method to compare the String object in its expression with the expressions in each case label. Hence, the comparison of String objects in switch statements is case sensitive. However, the bytecode for switch statements using String objects would be more efficient than an if-else ladder.
 
-## The try-with-resources Statement
+### The try-with-resources Statement
 
-## Catching Multiple Exception Types and Rethrowing Exceptions with Improved Type Checking
+### Catching Multiple Exception Types and Rethrowing Exceptions with Improved Type Checking
 
-## Binary Literals
+### Binary Literals
 Java 7 allows integral types (byte, short, int, and long) to be expressed using binary literals. To specify a binary literal, prefix the number with 0b or 0B.
 
 ## Swing
