@@ -2,15 +2,6 @@ collections:
    pages:
      output: true
      permalink: /:path/
-#   raghuvansha:
-#     output: true
-#     permalink: /sa/raghuvansha/:path/
-#   sanskrit:
-#     output: true
-#     permalink: /sa/:path/
-#   marathi:
-#     output: true
-#     permalink: /mr/:path/
      
 # --- Required options --- #
 
