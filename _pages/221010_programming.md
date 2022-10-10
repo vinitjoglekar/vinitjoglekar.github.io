@@ -4,18 +4,17 @@ title: What is programming?
 ---
 
 # What is programming?
-<div class="synopsis">
-  <h2> A Plain English Explanation </h2>
-</div>
+### A Plain English Explanation
+
 
 If a genie appears before you and grants you 3 wishes, what would you ask? 
 
 Take a minute to think about it, and then read on.
 
 This is what I would ask:
-- Wish #1 - Please grant me 1000 wishes. <div class="synopsis"> Now I have 1002 wishes remaining. </div>
-- Wish #2 - Please keep track of my remaining wishes. <div class="synopsis"> Now I have 1001 wishes remaining, and the genie will keep track of the number for me. </div>
-- Wish #3 - Whenever the number of remaining wishes becomes less than 100, please ask from yourself, for and on my behalf, to grant me 1000 wishes. <div class="synopsis"> Voila! I now have an auto-recharge facility set up with the genie! </div>
+- Wish #1 - Please grant me 1000 wishes. Now I have 1002 wishes remaining.
+- Wish #2 - Please keep track of my remaining wishes. Now I have 1001 wishes remaining, and the genie will keep track of the number for me.
+- Wish #3 - Whenever the number of remaining wishes becomes less than 100, please ask from yourself, for and on my behalf, to grant me 1000 wishes. Voila! I now have an auto-recharge facility set up with the genie!
 
 And that is what programming is!
 
