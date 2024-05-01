@@ -14,4 +14,3 @@ title: Index
 ### How-to Notes
 - [How to format a USB drive on Linux?](https://vinitjoglekar.github.io/ht-format-linux)
 
-
