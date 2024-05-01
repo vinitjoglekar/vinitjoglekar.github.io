@@ -1,5 +1,5 @@
 # About me
------------------------
+
 
 Curious to understand how things work. Interested in the whole spectrum of Science, 
 Technology and Mathematics. A voracious reader... a fan of books published by MIR 
