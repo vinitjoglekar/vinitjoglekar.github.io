@@ -1,8 +1,11 @@
-# Vinit Joglekar
+# About me
 -----------------------
 
-### Index
-- 10-Oct-2022: [What is programming?](https://vinitjoglekar.github.io/221010_programming/)
-- 25-Jun-2023: [How to format a USB drive on Linux?](https://vinitjoglekar.github.io/230625_format_on_linux)
+Curious to understand how things work. Interested in the whole spectrum of Science, 
+Technology and Mathematics. A voracious reader... a fan of books published by MIR 
+Publishers, The Complete Robot by Isaac Asimov, and Sherlock Holmes stories by 
+Sir Arthur Conan Doyle.
 
+-----------------------
 
+[Index of articles](https://vinitjoglekar.github.io/index/)
