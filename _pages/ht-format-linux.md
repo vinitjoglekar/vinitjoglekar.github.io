@@ -18,3 +18,7 @@ title: How to format a USB drive on Linux?
 
 Note that, if your device size is larger than 2TB, you should use `gdisk` instead of `fdisk`.
  
+-----------------------
+
+[Index of articles](https://vinitjoglekar.github.io/index/)
+
