@@ -41,7 +41,7 @@ The starting point of this investigation was how to mitigate security risks asso
 ### Removing embedded JavaScript from a PDF file
 1. Reportedly, printing a PDF file using "Print to PDF" printer driver will create a PDF file without JavaScript. However, I have not tried this, for want of a PDF file that contains JavaScript.
 2. Reportedly, the above mentioned RUPS software may be used to remove embedded JavaScript from PDF files. Again, I have not tried this.
-3. Adobe Acrobat &mdash; not Adobe Acrobat Reader &mdash; software allows to edit the file remove embedded JavaScript from it.
+3. Adobe Acrobat &mdash; not Adobe Acrobat Reader &mdash; software allows to edit the file, and remove embedded JavaScript from it.
 <br/>
 
 ### Disabling execution of JavaScript in PDF reader software
