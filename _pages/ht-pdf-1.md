@@ -45,7 +45,7 @@ The starting point of this investigation was how to mitigate security risks asso
 
 ### Disabling execution of JavaScript in PDF reader software
 * Generally, PDF readers that support JavaScript execution provide a setting to disable the execution. [Here](https://helpx.adobe.com/acrobat/using/javascripts-pdfs-security-risk.html) are instructions for Adobe Acrobat.
-* It would be even better, if the PDF reader cannot execute JavaScript at all. Based on a discussion forum post, **apparently** [Xreader](https://github.com/linuxmint/xreader) document viewer &mdash; the default PDF reader in Linux Mint OS &mdash; cannot execute JavaScript. However, I could not verify this from the official documentation. The command line options of Xreader can be looked up in man pages, and are also available [here](https://man.archlinux.org/man/xreader.1.en). The command line options are mute about JavaScript execution.
+* It would be even better, if the PDF reader cannot execute JavaScript at all. Based on a discussion forum post, **apparently** [Xreader](https://github.com/linuxmint/xreader) document viewer &mdash; the default PDF reader in Linux Mint OS &mdash; cannot execute JavaScript. However, I could not verify this from the official documentation. The command line options of Xreader can be looked up in man pages, and are also available [here](https://man.archlinux.org/man/xreader.1.en). They are mute about JavaScript execution.
  <br/>
  
 -----------------------
