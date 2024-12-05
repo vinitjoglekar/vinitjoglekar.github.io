@@ -10,5 +10,5 @@ title: Index
 
 ### How-to Notes
 - [How to format a drive on Linux?](https://vinitjoglekar.github.io/ht-format-linux)
-- [Dealing with PDF files](https://vinitjoglekar.github.io/ht-pdf-1.md)
+- [Dealing with PDF files](https://vinitjoglekar.github.io/ht-pdf-1)
 
