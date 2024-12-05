@@ -1,9 +1,9 @@
 ---
 layout: default
-title: How to format a USB drive on Linux?
+title: How to format a drive on Linux?
 ---
 
-# How to format a USB drive on Linux?
+# How to format a drive on Linux?
 
 1. Check the device name of the drive using `lsblk` command. Using `df` command, verify that the drive is not mounted. If it is mounted, unmount it.
     - Let's suppose, for example, that the device is `/dev/sda`.
