@@ -4,7 +4,7 @@ title: Vinit Joglekar
 ---
 
 # Vinit Joglekar
-[About me](https://vinitjoglekar.github.io/pe-what-is-programming)
+[About me](https://vinitjoglekar.github.io/about-me)
 
 ### Index
 
