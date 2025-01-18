@@ -4,12 +4,12 @@ title: Vinit Joglekar
 ---
 
 # Vinit Joglekar
-[About me](https://vinitjoglekar.github.io/about-me/)
+[About me](https://vinitjoglekar.github.io/about-me)
 
 ### Index
 
 #### Plain English Explanations
-- [What is programming?](https://vinitjoglekar.github.io/pe-what-is-programming/)
+- [What is programming?](https://vinitjoglekar.github.io/pe-what-is-programming)
 
 #### Recipes
 - [How to format a drive on Linux?](https://vinitjoglekar.github.io/ht-format-linux)
