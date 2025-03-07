@@ -5,7 +5,7 @@ title: About me
 
 # About me
 
-> Experience is what you get, when you don't get what you want &mdash; Socrates
+> Experience is what you get, when you don't get what you want
 
 After graduating in late 90's I joined my family's business. About the same time, 
 I happened to buy a book titled [Artificial Intelligence](https://www.amazon.in/dp/0070087709) 
