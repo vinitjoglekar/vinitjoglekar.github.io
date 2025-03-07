@@ -1,10 +1,9 @@
 ---
 layout: default
-title: What is programming?
+title: About me
 ---
 
-# What is programming?
-### A Plain English Explanation
+# About me
 
 > Experience is what you get, when you don't get what you want &mdash; Socrates
 
